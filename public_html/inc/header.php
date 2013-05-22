@@ -46,7 +46,7 @@ else{ echo '
             <span>Password</span>
             <input name="password" type="password" maxlength="60" value="123456" />
             <input name="rmb" type="checkbox" /><span>Remember me</span>
-            <input name="login" type="submit" value="login"/>or <span id="clickme"><a href="#">Sign up</a></span>	
+            <input name="login" type="submit" value="login"/>or <span id="abc"><a href="http://richdho.info/codeigniter/main/signup">Sign up</a></span>	
             
             </form>
        </div>
